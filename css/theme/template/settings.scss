@@ -48,3 +48,7 @@ $overlayElementFgColor: 0, 0, 0;
 @mixin bodyBackground() {
 	background: $backgroundColor;
 }
+
+i {
+  font-style: italic;
+}

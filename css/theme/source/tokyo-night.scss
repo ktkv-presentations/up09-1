@@ -95,6 +95,10 @@ $heading4Size: 1em;
   text-align: justify;
 }
 
+.reveal i, .reveal b {
+  color: $cyan
+}
+
 .slide-number {
   top: 1em;
   right: 1em !important;
